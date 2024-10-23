@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<log4net>
+
+<!-- 콘솔 로그 설정 -->
+
+<appender name="Console" type="log4net.Appender.ConsoleAppender">
+
+<layout type="log4net.Layout.PatternLayout">
+
+<conversionPattern value="%d [%t] %-5p %c - %m%n" />
+
+</layout>
+
+</appender>
+
+<!-- 파일 로그 설정 -->
+
+<appender name="RollingFile" type="log4net.Appender.RollingFileAppender">
+
+<file value="c:\log\Auto_CC.log" />
+
+<appendToFile value="true" />
+
+<datePattern value="-yyyy-MM-dd" />
+
+<rollingStyle value="Date" />
+
+<layout type="log4net.Layout.PatternLayout">
+
+<conversionPattern value="%d [%t] %-5p %c - %m%n" />
+
+</layout>
+
+</appender>
+
+<!-- 로그 레벨 설정 -->
+
+<root>
+
+<level value="ALL" />
+
+<appender-ref ref="Console" />
+
+<appender-ref ref="RollingFile" />
+
+</root>
+
+</log4net>
+

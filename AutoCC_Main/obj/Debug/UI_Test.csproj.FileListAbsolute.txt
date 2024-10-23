@@ -1,0 +1,11 @@
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\UI_Test.exe.config
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\UI_Test.exe
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\UI_Test.pdb
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.csprojAssemblyReference.cache
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.Form1.resources
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.Properties.Resources.resources
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.csproj.GenerateResource.cache
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.exe
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\UI_Test.pdb
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\DS-DIGI.TTF

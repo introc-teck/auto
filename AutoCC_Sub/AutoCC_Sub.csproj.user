@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>order_id=00004%3border_seq=897839%3border_date=231103%3bcategory_code=003001001%3bfile_path=C:\Users\자동검증 운영_1\Documents\receipt\DPT231103NC00004\DPT231103NC00004.pdf%3bbleed_size_width=92.00%3bbleed_size_height=52.00%3btrim_size_width=90.00%3btrim_size_height=50.00%3bside_count=2%3bitem_count=1%3bmarker=%3bmagenta_outline=False%3bworks_folder_path=C:\Users\자동검증 운영_1\Documents\receipt\DPT231103NC00004%3blog_file_path=C:\\Auto_CC\\log\</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>게시\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>ko-KR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\illustratorhandlerforpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\illustratorhandlerforzip_jpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\illustratorhandlerforzip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|d:\\_________________\uAE40\uD6A8\uC885\\autocc\\autocc_sub\\illustratorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\drawerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|d:\\_________________\uAE40\uD6A8\uC885\\autocc\\autocc_sub\\coreldrawhandlerforzip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\coreldrawhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|d:\\_________________\uAE40\uD6A8\uC885\\autocc\\autocc_main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\datadispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:datadispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|d:\\_________________\uAE40\uD6A8\uC885\\autocc\\autocc_main\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AutoCC_Sub||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AutoCC_Main||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAE90AF-9143-41A6-A144-73F4C74B8BB0}|AutoCC_Main.csproj|solutionrelative:error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\form1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D1753-82DF-4605-8BFA-3C7EC744F187}|..\\AutoCC_Sub\\AutoCC_Sub.csproj|D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\autocc_sub\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorelDRAWHandlerForZIP.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\CorelDRAWHandlerForZIP.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\CorelDRAWHandlerForZIP.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\CorelDRAWHandlerForZIP.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\CorelDRAWHandlerForZIP.cs*",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAYwN8BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:24:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAADIDAAAAAAAAAAAYwEQDAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Work.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Work.cs",
+              "RelativeDocumentMoniker": "Work.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Work.cs",
+              "RelativeToolTip": "Work.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAUwIwBAABEAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawerHandler.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\DrawerHandler.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\DrawerHandler.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\DrawerHandler.cs",
+              "RelativeToolTip": "..\\AutoCC_Sub\\DrawerHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\Form1.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\Form1.cs*",
+              "ViewState": "AgIAAIYCAAAAAAAAAAAYwJkCAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IllustratorHandlerForPDF.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForPDF.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\IllustratorHandlerForPDF.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForPDF.cs",
+              "RelativeToolTip": "..\\AutoCC_Sub\\IllustratorHandlerForPDF.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAYwMEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataDispatcher.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\DataDispatcher.cs",
+              "RelativeDocumentMoniker": "DataDispatcher.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\DataDispatcher.cs*",
+              "RelativeToolTip": "DataDispatcher.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwIcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\PathHelper.cs",
+              "RelativeDocumentMoniker": "PathHelper.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\PathHelper.cs",
+              "RelativeToolTip": "PathHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Pair.cs",
+              "RelativeDocumentMoniker": "Pair.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Pair.cs",
+              "RelativeToolTip": "Pair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:14:21.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorelDRAWHandler.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\CorelDRAWHandler.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\CorelDRAWHandler.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\CorelDRAWHandler.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\CorelDRAWHandler.cs*",
+              "ViewState": "AgIAAP0CAAAAAAAAAAAYwA8DAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormSettings.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\FormSettings.cs",
+              "RelativeDocumentMoniker": "FormSettings.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\FormSettings.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FormSettings.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.19Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.186Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Error.cs",
+              "RelativeDocumentMoniker": "Error.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\Error.cs",
+              "RelativeToolTip": "Error.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAnwFAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoCC_Sub",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\AutoCC_Sub.csproj",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\AutoCC_Sub.csproj",
+              "ToolTip": "C:\\Users\\\uC790\uB3D9\uAC80\uC99D \uC6B4\uC601_1\\Desktop\\\uC0C8 \uD3F4\uB354 (3)\\AutoCC_Sub\\AutoCC_Sub.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2022-07-26T13:21:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoCC_Main",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\AutoCC_Main.csproj",
+              "RelativeDocumentMoniker": "AutoCC_Main.csproj",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Main\\AutoCC_Main.csproj",
+              "RelativeToolTip": "AutoCC_Main.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-02T21:38:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\Form1.resx",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.resx",
+              "RelativeToolTip": "..\\AutoCC_Sub\\Form1.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-26T05:09:47.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\Form1.resx",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\Form1.resx",
+              "RelativeToolTip": "..\\AutoCC_Sub\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-26T05:09:47.191Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IllustratorHandler.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandler.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\IllustratorHandler.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandler.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\IllustratorHandler.cs*",
+              "ViewState": "AgIAACACAAAAAAAAAAAYwDICAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IllustratorHandlerForZIP_JPG.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForZIP_JPG.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\IllustratorHandlerForZIP_JPG.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForZIP_JPG.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\IllustratorHandlerForZIP_JPG.cs*",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAYwKEBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IllustratorHandlerForZIP.cs",
+              "DocumentMoniker": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForZIP.cs",
+              "RelativeDocumentMoniker": "..\\AutoCC_Sub\\IllustratorHandlerForZIP.cs",
+              "ToolTip": "D:\\_________________\uAE40\uD6A8\uC885\\AutoCC\\AutoCC_Sub\\IllustratorHandlerForZIP.cs*",
+              "RelativeToolTip": "..\\AutoCC_Sub\\IllustratorHandlerForZIP.cs*",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAYwPwBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:09:47.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

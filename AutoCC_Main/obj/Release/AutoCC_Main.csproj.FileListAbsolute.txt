@@ -1,0 +1,165 @@
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Log4NetSub.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\checkValidation.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\deselectall.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\duplicate.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\get_page_list.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\get_page_list_besideselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\get_page_list_inselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\openandpaste.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\remove_bleedtrimline_inselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\saveasjpg.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\saveaspdf.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\select_page.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Log4Net.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Resources\DS-DIGI.TTF
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\DS-DIGI.TTF
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\App.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Main.exe.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Main.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Main.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Sub.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\log4net.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Magick.NET.Core.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Newtonsoft.Json.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\itextsharp.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Sub.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\AutoCC_Sub.exe.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Magick.NET.Core.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\Newtonsoft.Json.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Release\itextsharp.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.csprojAssemblyReference.cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.FormSettings.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.Main.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.Properties.Resources.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.Time_Info.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.csproj.GenerateResource.cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CoreCompileInputs.cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CopyComplete
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Release\AutoCC_Main.pdb
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Log4NetSub.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\checkValidation.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\deselectall.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\duplicate.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\get_page_list.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\get_page_list_besideselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\get_page_list_inselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\openandpaste.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\remove_bleedtrimline_inselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\saveasjpg.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\saveaspdf.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\select_page.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Log4Net.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Resources\DS-DIGI.TTF
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\DS-DIGI.TTF
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\App.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Main.exe.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Main.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Main.pdb
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Sub.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\log4net.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Magick.NET.Core.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Newtonsoft.Json.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\itextsharp.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Sub.pdb
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\AutoCC_Sub.exe.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Magick.NET.Core.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\Newtonsoft.Json.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Release\itextsharp.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.csprojAssemblyReference.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.FormSettings.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.Main.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.Properties.Resources.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.Time_Info.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.csproj.GenerateResource.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CopyComplete
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Release\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Log4NetSub.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\checkValidation.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\deselectall.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\duplicate.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\get_page_list.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\get_page_list_besideselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\get_page_list_inselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\openandpaste.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\remove_bleedtrimline_inselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\saveasjpg.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\saveaspdf.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\select_page.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Log4Net.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Resources\DS-DIGI.TTF
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\DS-DIGI.TTF
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\App.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Main.exe.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Main.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Sub.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\log4net.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Magick.NET.Core.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Newtonsoft.Json.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\itextsharp.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Sub.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\AutoCC_Sub.exe.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Magick.NET.Core.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\Newtonsoft.Json.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Release\itextsharp.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.csproj.AssemblyReference.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.FormSettings.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.Main.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.Properties.Resources.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.Time_Info.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.csproj.GenerateResource.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CopyComplete
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Release\AutoCC_Main.csproj.SuggestedBindingRedirects.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.csproj.AssemblyReference.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.FormSettings.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.Main.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.Properties.Resources.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.Time_Info.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.csproj.GenerateResource.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.csproj.CoreCompileInputs.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_Main.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Log4NetSub.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\checkValidation.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\deselectall.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\duplicate.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\get_page_list.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\get_page_list_besideselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\get_page_list_inselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\openandpaste.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\remove_bleedtrimline_inselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\saveasjpg.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\saveaspdf.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\select_page.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Log4Net.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Resources\DS-DIGI.TTF
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\DS-DIGI.TTF
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\App.config
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Main.exe.config
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Main.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Main.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Sub.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\log4net.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Magick.NET.Core.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Newtonsoft.Json.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\itextsharp.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Sub.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\AutoCC_Sub.exe.config
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Magick.NET-Q16-AnyCPU.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Magick.NET.Core.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\Newtonsoft.Json.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Release\itextsharp.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Release\AutoCC_M.0B887B49.Up2Date

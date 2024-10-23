@@ -1,0 +1,355 @@
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\Log4Net.xml
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\log4net.dll
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200409\UI_Test\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200409\UI_Test\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200409\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_2차완료20200409\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_2차완료\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_2차완료20200521\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_2차완료20200521\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_종료\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_종료\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_완료20200526\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200526\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\System.Net.Json.dll
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_완료20200528\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200528\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\App.config
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\log4net.dll
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\CC_Auto_완료20200604\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\CC_Auto_완료20200604\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Log4NetSub.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Log4Net.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\App.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\log4net.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\itextsharp.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\itextsharp.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.Cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+D:\cc_dev_예비용_소스\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Newtonsoft.Json.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Newtonsoft.Json.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\checkValidation.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\deselectall.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\duplicate.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\get_page_list.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\get_page_list_besideselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\get_page_list_inselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\openandpaste.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\remove_bleedtrimline_inselection.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\saveasjpg.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\saveaspdf.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Resources\select_page.jsx
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Magick.NET.Core.dll
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\cc_dev_예비용_소스\AutoCC_Main\bin\Debug\Magick.NET.Core.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\checkValidation.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\deselectall.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\duplicate.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\get_page_list.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\get_page_list_besideselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\get_page_list_inselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\openandpaste.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\remove_bleedtrimline_inselection.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\saveasjpg.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\saveaspdf.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\select_page.jsx
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\App.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\log4net.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Magick.NET.Core.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Magick.NET.Core.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.csprojAssemblyReference.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\Users\HyeonsikCho\Desktop\자동접수\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Log4NetSub.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\checkValidation.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\deselectall.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\duplicate.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\get_page_list.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\get_page_list_besideselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\get_page_list_inselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\openandpaste.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\remove_bleedtrimline_inselection.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\saveasjpg.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\saveaspdf.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\select_page.jsx
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Log4Net.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\App.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\log4net.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Magick.NET.Core.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\itextsharp.dll
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\AutoCC_Sub.exe.config
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Magick.NET.Core.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\bin\Debug\itextsharp.xml
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.AssemblyReference.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CoreCompileInputs.cache
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.CopyComplete
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+C:\Users\자동검증 운영_1\Desktop\새 폴더 (3)\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.SuggestedBindingRedirects.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\AutoCC_Main.exe.config
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Log4NetSub.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\checkValidation.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\deselectall.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\duplicate.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\get_page_list.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\get_page_list_besideselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\get_page_list_inselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\openandpaste.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\remove_bleedtrimline_inselection.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\saveasjpg.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\saveaspdf.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\select_page.jsx
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Log4Net.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Resources\DS-DIGI.TTF
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\DS-DIGI.TTF
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\App.config
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\AutoCC_Main.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\AutoCC_Main.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\AutoCC_Sub.exe
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\log4net.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Magick.NET.Core.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Newtonsoft.Json.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\itextsharp.dll
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\AutoCC_Sub.pdb
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Magick.NET.Core.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\Newtonsoft.Json.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\bin\Debug\itextsharp.xml
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.csprojResolveAssemblyReference.cache
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.FormSettings.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.Main.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.Properties.Resources.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.Time_Info.resources
+D:\_________________김효종\AutoCC\AutoCC_Main\obj\Debug\AutoCC_Main.csproj.GenerateResource.Cache
